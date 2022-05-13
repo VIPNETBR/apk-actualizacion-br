@@ -30,7 +30,7 @@
 
       "ServerIP": "imperial.masinternetpy.xyz",
 
-      "CheckUser": "http://imperial.masinternetpy.xyz:5454/checkUser",
+      "CheckUser": "http://168.138.132.19:5454/checkUser",
 
       "ServerPort": "22",
 
