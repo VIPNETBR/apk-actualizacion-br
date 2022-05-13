@@ -6,7 +6,7 @@
 
   "UrlUpdate": "https://raw.githubusercontent.com/VIPNETBR/apk-actualizacion-br/main/UrlUpdate",
 
-  "Sms": "https://kiritosshxd.github.io/Conecta4g_site/UrlSms",
+  "Sms": "",
 
   "EmailFeedback": "https://t.me/vipnetbr",
 
@@ -28,9 +28,9 @@
 
       "FLAG": "br.png",
 
-      "ServerIP": "exemplo01.dominio.xyz",
+      "ServerIP": "imperial.masinternetpy.xyz",
 
-      "CheckUser": "http://exemplo01.dominio.xyz:5454/checkUser",
+      "CheckUser": "http://imperial.masinternetpy.xyz:5454/checkUser",
 
       "ServerPort": "22",
 
